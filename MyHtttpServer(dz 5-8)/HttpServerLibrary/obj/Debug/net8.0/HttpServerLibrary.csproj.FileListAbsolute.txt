@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll
+C:\Users\User\Desktop\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.deps.json
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.AssemblyInfo.cs
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\refint\HttpServerLibrary.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\HttpServerLibrary\obj\Debug\net8.0\ref\HttpServerLibrary.dll

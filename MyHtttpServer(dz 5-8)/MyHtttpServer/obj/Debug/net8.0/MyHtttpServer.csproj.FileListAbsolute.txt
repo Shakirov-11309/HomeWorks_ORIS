@@ -1,0 +1,1060 @@
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.AssemblyInfo.cs
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.sourcelink.json
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.exe
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.deps.json
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.runtimeconfig.json
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.dll
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.pdb
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.dll
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\refint\MyHtttpServer.dll
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.pdb
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.genruntimeconfig.cache
+C:\Users\User\Desktop\murkdown\clean-code\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\ref\MyHtttpServer.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.AssemblyInfo.cs
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.exe
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.deps.json
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.runtimeconfig.json
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.pdb
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpS.F21E7B42.Up2Date
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\refint\MyHtttpServer.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.pdb
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.genruntimeconfig.cache
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\ref\MyHtttpServer.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Moq.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\bootstrap-extended.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\bootstrap.min.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\bootstrap.min.css.map
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\dark-theme.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\header-colors.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\icons.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\pace.min.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\semi-dark.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\style.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\transformations.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.eot
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.svg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.ttf
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.woff
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.woff2
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.eot
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.svg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.ttf
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.woff
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.woff2
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\au-reset-password-cover.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\au-sign-in-basic.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\au-sign-up-basic.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\register-cover-img.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\01.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\02.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\03.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\04.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\05.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\06.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\07.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\08.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\09.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\10.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\01.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\02.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\03.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\04.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\05.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\06.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\07.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\08.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\09.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\10.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\11.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\12.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\13.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\14.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\15.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\16.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\17.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\18.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\19.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\20.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\21.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\pexels-pixabay-221247.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\profile-cover.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\01.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\02.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\03.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\04.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\05.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\06.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\07.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\08.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\09.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\404-error.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\404.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\505-error.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\auth-img-7.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\auth-img-register2.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\auth-img-register3.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\forgot-password-frent-img.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\login-img.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\american-express.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\apple-black-logo.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\australia.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\brazil.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\china.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\facebook.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\google.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\india.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\mastercard.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\russia.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\UAE.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\usa.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\visa.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\logo-icon-2.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\logo-icon-3.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\01.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\02.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\03.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\04.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\05.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\01.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\02.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\03.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\04.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\05.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\06--.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\06.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\07.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\08.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\09.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\10.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\11.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\12.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\13.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\14.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\15.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\16.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\17.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\18.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\19.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\20.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\21.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\22.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\23.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\01.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\02.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\03.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\04.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\05.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\06.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\07.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\bootstrap.bundle.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\bootstrap.bundle.min.js.map
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\component-popovers-tooltips.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\form-date-time-pickes.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\form-file-upload.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\form-select2.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\index.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\jquery.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\main.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\pace.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\price-slider.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\product-details.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\table-datatable.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\todo.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\widgets.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\css\apexcharts.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\js\apex-custom.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\js\apexcharts.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\js\apexcharts.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css.map
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js.map
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\js\moment.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\css\bs-stepper-custom.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\css\bs-stepper.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\css\custom.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\bs-stepper.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\index.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\index.spec.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\listeners.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\main.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\polyfill.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\util.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\chartjs\chart.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\chartjs\custom-script.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datatable\css\dataTables.bootstrap5.min.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datatable\js\dataTables.bootstrap5.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datatable\js\jquery.dataTables.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\css\classic.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\css\classic.date.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\css\classic.time.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\legacy.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\picker.date.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\picker.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\picker.time.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\easyPieChart\jquery.easypiechart.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\cors\jquery.postmessage-transport.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\cors\jquery.xdr-transport.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_fileupload.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_microphone.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_okay.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_remove.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_upload.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_webcam.png
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.fancy-fileupload.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.fileupload.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.iframe-transport.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.ui.widget.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\gmaps\map-custom-script.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\input-tags\css\tagsinput.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\input-tags\js\tagsinput.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery-knob\excanvas.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery-knob\jquery.knob.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery.easy-pie-chart\easy-pie-chart.init.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery.easy-pie-chart\easypiechart.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery.easy-pie-chart\jquery.easypiechart.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\css\metisMenu.min.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\css\metisMenu.min.css.map
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\js\metisMenu.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\js\metisMenu.min.js.map
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\css\lobibox.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\css\lobibox.min.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\1.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\2.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\3.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\4.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\5.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\6.jpg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\lobibox.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\lobibox.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\messageboxes.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\messageboxes.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\notification-custom-script.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\notifications.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\notifications.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound1.ogg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound2.ogg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound3.ogg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound4.ogg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound5.ogg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound6.ogg
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.min.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\OwlCarousel\css\owl.carousel.min.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\OwlCarousel\js\owl.carousel.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\OwlCarousel\js\owl.carousel2.thumbs.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\peity\jquery.peity.init.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\peity\jquery.peity.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\perfect-scrollbar\css\perfect-scrollbar.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\perfect-scrollbar\js\perfect-scrollbar.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\css\select2-bootstrap4.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\css\select2.min.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\js\select2-custom.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\js\select2.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\simplebar\css\simplebar.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\simplebar\js\simplebar.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\validation\jquery.validate.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\validation\validation-script.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-2.0.2.css
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-2.0.2.min.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-au-mill.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-in-mill.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-uk-mill-en.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-us-aea-en.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-world-mill-en.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jvectormap.custom.js
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-reset-password-basic.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-reset-password-cover.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-reset-password-simple.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-in-basic.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-in-simple.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-up-basic.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-up-cover.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-up-simple.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-apex-chart.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-chartjs.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-other.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-peity.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-accordions.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-alerts.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-badges.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-buttons.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-cards.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-carousels.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-list-groups.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-media-object.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-modals.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-navs-tabs.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-notifications.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-paginations.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-popovers-tooltips.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-progress-bars.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-spinners.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-complete.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-details.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-payment.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-review.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-shipping.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-product-comparison.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-product-details.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-cart.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-grid-view-top-filter.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-grid-view.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-list-view.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-date-time-pickes.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-elements.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-file-upload.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-input-group.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-layouts.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-radios-and-checkboxes.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-select2.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-validations.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-wizard.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\icons-boxicons.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\icons-feather-icons.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\icons-line-icons.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\index.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\index3.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\map-google-maps.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\map-vector-maps.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-edit-profile.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-errors-404-error.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-errors-500-error.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-errors-coming-soon.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-faq.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-invoices.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-pricing-tables.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-starter-page.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-to-do.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-user-profile.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\table-advance-tables.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\table-basic-table.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\table-datatable.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\widgets-data-widgets.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\widgets-static-widgets.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Templates\Pages\Auth\login.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Templates\Pages\Dashboard\index.html
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\User\Desktop\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\refint\MyHtttpServer.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.pdb
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.exe
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\bootstrap-extended.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\bootstrap.min.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\bootstrap.min.css.map
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\dark-theme.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\header-colors.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\icons.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\pace.min.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\semi-dark.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\style.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\transformations.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.eot
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.svg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.ttf
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.woff
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.woff2
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.eot
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.svg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.ttf
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.woff
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.woff2
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\au-reset-password-cover.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\au-sign-in-basic.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\au-sign-up-basic.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\register-cover-img.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\01.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\02.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\03.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\04.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\05.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\06.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\07.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\08.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\09.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\10.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\01.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\02.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\03.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\04.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\05.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\06.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\07.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\08.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\09.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\10.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\11.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\12.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\13.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\14.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\15.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\16.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\17.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\18.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\19.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\20.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\21.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\pexels-pixabay-221247.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\profile-cover.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\01.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\02.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\03.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\04.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\05.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\06.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\07.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\08.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\09.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\404-error.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\404.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\505-error.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\auth-img-7.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\auth-img-register2.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\auth-img-register3.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\forgot-password-frent-img.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\login-img.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\american-express.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\apple-black-logo.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\australia.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\brazil.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\china.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\facebook.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\google.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\india.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\mastercard.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\russia.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\UAE.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\usa.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\visa.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\logo-icon-2.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\logo-icon-3.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\01.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\02.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\03.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\04.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\05.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\01.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\02.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\03.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\04.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\05.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\06--.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\06.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\07.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\08.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\09.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\10.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\11.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\12.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\13.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\14.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\15.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\16.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\17.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\18.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\19.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\20.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\21.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\22.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\23.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\01.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\02.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\03.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\04.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\05.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\06.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\07.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\bootstrap.bundle.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\bootstrap.bundle.min.js.map
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\component-popovers-tooltips.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\form-date-time-pickes.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\form-file-upload.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\form-select2.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\index.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\jquery.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\main.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\pace.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\price-slider.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\product-details.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\table-datatable.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\todo.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\widgets.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\css\apexcharts.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\js\apex-custom.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\js\apexcharts.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\js\apexcharts.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css.map
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js.map
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\js\moment.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\css\bs-stepper-custom.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\css\bs-stepper.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\css\custom.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\bs-stepper.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\index.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\index.spec.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\listeners.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\main.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\polyfill.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\util.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\chartjs\chart.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\chartjs\custom-script.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datatable\css\dataTables.bootstrap5.min.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datatable\js\dataTables.bootstrap5.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datatable\js\jquery.dataTables.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\css\classic.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\css\classic.date.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\css\classic.time.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\legacy.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\picker.date.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\picker.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\picker.time.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\easyPieChart\jquery.easypiechart.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\cors\jquery.postmessage-transport.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\cors\jquery.xdr-transport.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_fileupload.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_microphone.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_okay.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_remove.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_upload.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_webcam.png
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.fancy-fileupload.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.fileupload.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.iframe-transport.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.ui.widget.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\gmaps\map-custom-script.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\input-tags\css\tagsinput.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\input-tags\js\tagsinput.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery-knob\excanvas.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery-knob\jquery.knob.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery.easy-pie-chart\easy-pie-chart.init.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery.easy-pie-chart\easypiechart.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery.easy-pie-chart\jquery.easypiechart.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\css\metisMenu.min.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\css\metisMenu.min.css.map
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\js\metisMenu.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\js\metisMenu.min.js.map
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\css\lobibox.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\css\lobibox.min.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\1.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\2.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\3.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\4.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\5.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\6.jpg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\lobibox.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\lobibox.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\messageboxes.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\messageboxes.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\notification-custom-script.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\notifications.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\notifications.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound1.ogg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound2.ogg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound3.ogg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound4.ogg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound5.ogg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound6.ogg
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.min.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\OwlCarousel\css\owl.carousel.min.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\OwlCarousel\js\owl.carousel.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\OwlCarousel\js\owl.carousel2.thumbs.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\peity\jquery.peity.init.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\peity\jquery.peity.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\perfect-scrollbar\css\perfect-scrollbar.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\perfect-scrollbar\js\perfect-scrollbar.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\css\select2-bootstrap4.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\css\select2.min.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\js\select2-custom.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\js\select2.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\simplebar\css\simplebar.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\simplebar\js\simplebar.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\validation\jquery.validate.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\validation\validation-script.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-2.0.2.css
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-2.0.2.min.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-au-mill.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-in-mill.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-uk-mill-en.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-us-aea-en.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-world-mill-en.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jvectormap.custom.js
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-reset-password-basic.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-reset-password-cover.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-reset-password-simple.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-in-basic.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-in-simple.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-up-basic.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-up-cover.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-up-simple.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-apex-chart.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-chartjs.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-other.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-peity.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-accordions.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-alerts.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-badges.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-buttons.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-cards.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-carousels.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-list-groups.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-media-object.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-modals.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-navs-tabs.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-notifications.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-paginations.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-popovers-tooltips.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-progress-bars.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-spinners.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-complete.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-details.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-payment.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-review.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-shipping.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-product-comparison.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-product-details.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-cart.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-grid-view-top-filter.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-grid-view.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-list-view.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-date-time-pickes.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-elements.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-file-upload.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-input-group.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-layouts.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-radios-and-checkboxes.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-select2.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-validations.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-wizard.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\icons-boxicons.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\icons-feather-icons.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\icons-line-icons.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\index.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\index3.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\map-google-maps.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\map-vector-maps.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-edit-profile.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-errors-404-error.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-errors-500-error.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-errors-coming-soon.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-faq.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-invoices.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-pricing-tables.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-starter-page.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-to-do.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\table-advance-tables.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\table-basic-table.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\table-datatable.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\widgets-data-widgets.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\widgets-static-widgets.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Templates\Pages\Auth\login.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Templates\Pages\Dashboard\index.html
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.deps.json
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.pdb
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Moq.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpS.F21E7B42.Up2Date
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\ref\MyHtttpServer.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Templates\Pages\UserProfile\profile.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.exe
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\bootstrap-extended.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\bootstrap.min.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\bootstrap.min.css.map
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\dark-theme.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\header-colors.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\icons.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\pace.min.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\semi-dark.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\style.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\css\transformations.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.eot
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.svg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.ttf
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.woff
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\boxicons.woff2
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.eot
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.svg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.ttf
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.woff
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\fonts\LineIcons.woff2
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\au-reset-password-cover.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\au-sign-in-basic.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\au-sign-up-basic.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\authentication\register-cover-img.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\01.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\02.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\03.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\04.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\05.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\06.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\07.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\08.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\09.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\avatars\10.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\01.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\02.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\03.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\04.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\05.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\06.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\07.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\08.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\09.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\10.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\11.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\12.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\13.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\14.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\15.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\16.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\17.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\18.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\19.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\20.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\21.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\pexels-pixabay-221247.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\cards\profile-cover.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\01.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\02.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\03.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\04.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\05.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\06.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\07.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\08.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\carousel\09.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\404-error.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\404.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\505-error.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\auth-img-7.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\auth-img-register2.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\auth-img-register3.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\forgot-password-frent-img.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\error\login-img.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\american-express.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\apple-black-logo.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\australia.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\brazil.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\china.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\facebook.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\google.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\india.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\mastercard.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\russia.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\UAE.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\usa.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\icons\visa.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\logo-icon-2.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\logo-icon-3.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\01.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\02.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\03.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\04.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\product-gallery\05.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\01.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\02.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\03.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\04.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\05.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\06--.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\06.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\07.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\08.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\09.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\10.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\11.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\12.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\13.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\14.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\15.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\16.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\17.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\18.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\19.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\20.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\21.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\22.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\products\23.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\01.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\02.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\03.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\04.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\05.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\06.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\images\similar-products\07.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\bootstrap.bundle.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\bootstrap.bundle.min.js.map
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\component-popovers-tooltips.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\form-date-time-pickes.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\form-file-upload.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\form-select2.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\index.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\jquery.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\main.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\pace.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\price-slider.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\product-details.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\table-datatable.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\todo.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\js\widgets.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\css\apexcharts.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\js\apex-custom.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\js\apexcharts.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\apexcharts-bundle\js\apexcharts.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.min.css.map
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.min.js.map
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bootstrap-material-datetimepicker\js\moment.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\css\bs-stepper-custom.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\css\bs-stepper.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\css\custom.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\bs-stepper.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\index.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\index.spec.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\listeners.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\main.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\polyfill.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\bs-stepper\js\util.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\chartjs\chart.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\chartjs\custom-script.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datatable\css\dataTables.bootstrap5.min.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datatable\js\dataTables.bootstrap5.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datatable\js\jquery.dataTables.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\css\classic.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\css\classic.date.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\css\classic.time.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\legacy.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\picker.date.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\picker.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\datetimepicker\js\picker.time.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\Drag-And-Drop\dist\imageuploadify.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\easyPieChart\jquery.easypiechart.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\cors\jquery.postmessage-transport.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\cors\jquery.xdr-transport.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_fileupload.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_microphone.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_okay.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_remove.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_upload.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\fancy_webcam.png
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.fancy-fileupload.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.fileupload.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.iframe-transport.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\fancy-file-uploader\jquery.ui.widget.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\gmaps\map-custom-script.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\input-tags\css\tagsinput.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\input-tags\js\tagsinput.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery-knob\excanvas.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery-knob\jquery.knob.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery.easy-pie-chart\easy-pie-chart.init.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery.easy-pie-chart\easypiechart.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\jquery.easy-pie-chart\jquery.easypiechart.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\css\metisMenu.min.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\css\metisMenu.min.css.map
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\js\metisMenu.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\metismenu\js\metisMenu.min.js.map
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\css\lobibox.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\css\lobibox.min.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\1.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\2.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\3.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\4.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\5.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\img\6.jpg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\lobibox.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\lobibox.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\messageboxes.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\messageboxes.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\notification-custom-script.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\notifications.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\js\notifications.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound1.ogg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound2.ogg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound3.ogg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound4.ogg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound5.ogg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\notifications\sounds\sound6.ogg
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.min.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\nouislider\nouislider.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\OwlCarousel\css\owl.carousel.min.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\OwlCarousel\js\owl.carousel.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\OwlCarousel\js\owl.carousel2.thumbs.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\peity\jquery.peity.init.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\peity\jquery.peity.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\perfect-scrollbar\css\perfect-scrollbar.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\perfect-scrollbar\js\perfect-scrollbar.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\css\select2-bootstrap4.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\css\select2.min.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\js\select2-custom.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\select2\js\select2.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\simplebar\css\simplebar.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\simplebar\js\simplebar.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\validation\jquery.validate.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\validation\validation-script.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-2.0.2.css
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-2.0.2.min.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-au-mill.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-in-mill.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-uk-mill-en.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-us-aea-en.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jquery-jvectormap-world-mill-en.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\assets\plugins\vectormap\jvectormap.custom.js
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-reset-password-basic.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-reset-password-cover.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-reset-password-simple.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-in-basic.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-in-simple.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-up-basic.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-up-cover.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\authentication-sign-up-simple.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-apex-chart.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-chartjs.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-other.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\charts-peity.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-accordions.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-alerts.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-badges.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-buttons.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-cards.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-carousels.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-list-groups.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-media-object.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-modals.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-navs-tabs.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-notifications.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-paginations.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-popovers-tooltips.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-progress-bars.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\component-spinners.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-complete.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-details.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-payment.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-review.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-checkout-shipping.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-product-comparison.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-product-details.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-cart.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-grid-view-top-filter.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-grid-view.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\ecommerce-shop-list-view.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-date-time-pickes.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-elements.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-file-upload.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-input-group.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-layouts.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-radios-and-checkboxes.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-select2.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-validations.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\form-wizard.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\icons-boxicons.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\icons-feather-icons.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\icons-line-icons.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\index.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\index3.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\map-google-maps.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\map-vector-maps.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-edit-profile.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-errors-404-error.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-errors-500-error.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-errors-coming-soon.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-faq.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-invoices.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-pricing-tables.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-starter-page.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\pages-to-do.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\table-advance-tables.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\table-basic-table.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\table-datatable.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\widgets-data-widgets.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\public\widgets-static-widgets.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Templates\Pages\Auth\login.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Templates\Pages\Dashboard\index.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Templates\Pages\UserProfile\profile.html
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.deps.json
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.runtimeconfig.json
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyHtttpServer.pdb
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\Moq.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\HttpServerLibrary.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\HttpServerLibrary.pdb
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.AssemblyInfo.cs
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpS.F21E7B42.Up2Date
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\refint\MyHtttpServer.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.pdb
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\MyHtttpServer.genruntimeconfig.cache
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\obj\Debug\net8.0\ref\MyHtttpServer.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyHtttpServer\bin\Debug\net8.0\config.json

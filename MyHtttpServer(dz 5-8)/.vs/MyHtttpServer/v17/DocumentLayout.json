@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\httpserverlibrary\\configuration\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\configuration\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\httpserverlibrary\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|c:\\users\\user\\downloads\\myhtttpserver_ilkhamshakirov\\myhtttpserver\\myhtttpserver\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|solutionrelative:myhtttpserver\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|c:\\users\\user\\downloads\\myhtttpserver_ilkhamshakirov\\myhtttpserver\\myhtttpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|solutionrelative:myhtttpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\httpserverlibrary\\handlers\\staticfileshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\handlers\\staticfileshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EA6E85-8799-48AF-B448-12802148C158}|MyORMLibraryUnitTests\\MyORMLibraryUnitTests.csproj|c:\\users\\user\\downloads\\myhtttpserver_ilkhamshakirov\\myhtttpserver\\myormlibraryunittests\\testscontexttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EA6E85-8799-48AF-B448-12802148C158}|MyORMLibraryUnitTests\\MyORMLibraryUnitTests.csproj|solutionrelative:myormlibraryunittests\\testscontexttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABC5243-4B9B-405E-8E86-9C401B7F0A96}|MyORMLibrary\\MyORMLibrary.csproj|c:\\users\\user\\downloads\\myhtttpserver_ilkhamshakirov\\myhtttpserver\\myormlibrary\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABC5243-4B9B-405E-8E86-9C401B7F0A96}|MyORMLibrary\\MyORMLibrary.csproj|solutionrelative:myormlibrary\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877F3DD5-A454-4CD2-A2AC-034B989B0437}|TemplateEngineUnitTests\\TemplateEngineUnitTests.csproj|c:\\users\\user\\downloads\\myhtttpserver_ilkhamshakirov\\myhtttpserver\\templateengineunittests\\customtemplatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877F3DD5-A454-4CD2-A2AC-034B989B0437}|TemplateEngineUnitTests\\TemplateEngineUnitTests.csproj|solutionrelative:templateengineunittests\\customtemplatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877F3DD5-A454-4CD2-A2AC-034B989B0437}|TemplateEngineUnitTests\\TemplateEngineUnitTests.csproj|c:\\users\\user\\downloads\\myhtttpserver_ilkhamshakirov\\myhtttpserver\\templateengineunittests\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877F3DD5-A454-4CD2-A2AC-034B989B0437}|TemplateEngineUnitTests\\TemplateEngineUnitTests.csproj|solutionrelative:templateengineunittests\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC1DA0D-A166-4E9F-BC58-93BB4470BF9E}|TemplateEngine\\TemplateEngine.csproj|c:\\users\\user\\downloads\\myhtttpserver_ilkhamshakirov\\myhtttpserver\\templateengine\\customtemplator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC1DA0D-A166-4E9F-BC58-93BB4470BF9E}|TemplateEngine\\TemplateEngine.csproj|solutionrelative:templateengine\\customtemplator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABC5243-4B9B-405E-8E86-9C401B7F0A96}|MyORMLibrary\\MyORMLibrary.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\myormlibrary\\ormcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABC5243-4B9B-405E-8E86-9C401B7F0A96}|MyORMLibrary\\MyORMLibrary.csproj|solutionrelative:myormlibrary\\ormcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|c:\\users\\user\\downloads\\myhtttpserver_ilkhamshakirov\\myhtttpserver\\myhtttpserver\\endponts\\userprofileendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|solutionrelative:myhtttpserver\\endponts\\userprofileendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\myhtttpserver\\endponts\\dashboarendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|solutionrelative:myhtttpserver\\endponts\\dashboarendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\myhtttpserver\\templates\\pages\\userprofile\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|solutionrelative:myhtttpserver\\templates\\pages\\userprofile\\profile.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\myhtttpserver\\templates\\pages\\dashboard\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|solutionrelative:myhtttpserver\\templates\\pages\\dashboard\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\myhtttpserver\\endponts\\authendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|solutionrelative:myhtttpserver\\endponts\\authendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\httpserverlibrary\\handlers\\endpointshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\handlers\\endpointshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\httpserverlibrary\\httpresponse\\htmlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\httpresponse\\htmlresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\httpserverlibrary\\core\\baseendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\core\\baseendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\myhtttpserver\\session\\sessionstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|solutionrelative:myhtttpserver\\session\\sessionstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\httpserverlibrary\\httpresponse\\redirectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\httpresponse\\redirectresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\myhtttpserver\\public\\authentication-sign-up-basic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|solutionrelative:myhtttpserver\\public\\authentication-sign-up-basic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\httpserverlibrary\\httpresponse\\jsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\httpresponse\\jsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\myhtttpserver\\service\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|solutionrelative:myhtttpserver\\service\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\myhtttpserver\\service\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3D6FC0-657D-4243-A9B3-182377C0412D}|MyHtttpServer\\MyHtttpServer.csproj|solutionrelative:myhtttpserver\\service\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\httpserverlibrary\\attributes\\getattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638F0EDE-3A48-43EF-BE09-9B1F49D47711}|HttpServerLibrary\\HttpServerLibrary.csproj|solutionrelative:httpserverlibrary\\attributes\\getattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ORMContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyORMLibrary\\ORMContext.cs",
+              "RelativeDocumentMoniker": "MyORMLibrary\\ORMContext.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyORMLibrary\\ORMContext.cs",
+              "RelativeToolTip": "MyORMLibrary\\ORMContext.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAgwFQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T12:12:25.387Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Endponts\\AuthEndpoint.cs",
+              "RelativeDocumentMoniker": "MyHtttpServer\\Endponts\\AuthEndpoint.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Endponts\\AuthEndpoint.cs",
+              "RelativeToolTip": "MyHtttpServer\\Endponts\\AuthEndpoint.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA3wBUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T17:03:14.526Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\config.json",
+              "RelativeDocumentMoniker": "MyHtttpServer\\config.json",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\config.json",
+              "RelativeToolTip": "MyHtttpServer\\config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-05T11:53:43.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Program.cs",
+              "RelativeDocumentMoniker": "MyHtttpServer\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Program.cs",
+              "RelativeToolTip": "MyHtttpServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:49:32.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestsContextTest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyORMLibraryUnitTests\\TestsContextTest.cs",
+              "RelativeDocumentMoniker": "MyORMLibraryUnitTests\\TestsContextTest.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyORMLibraryUnitTests\\TestsContextTest.cs",
+              "RelativeToolTip": "MyORMLibraryUnitTests\\TestsContextTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:50:07.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyORMLibrary\\TestContext.cs",
+              "RelativeDocumentMoniker": "MyORMLibrary\\TestContext.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyORMLibrary\\TestContext.cs",
+              "RelativeToolTip": "MyORMLibrary\\TestContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:50:00.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\HttpServer.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\HttpServer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\HttpServer.cs",
+              "RelativeToolTip": "HttpServerLibrary\\HttpServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:26:23.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\Configuration\\AppConfig.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\Configuration\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\Configuration\\AppConfig.cs",
+              "RelativeToolTip": "HttpServerLibrary\\Configuration\\AppConfig.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:23:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomtemplatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\TemplateEngineUnitTests\\CustomtemplatorTests.cs",
+              "RelativeDocumentMoniker": "TemplateEngineUnitTests\\CustomtemplatorTests.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\TemplateEngineUnitTests\\CustomtemplatorTests.cs",
+              "RelativeToolTip": "TemplateEngineUnitTests\\CustomtemplatorTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:55:33.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaticFilesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\Handlers\\StaticFilesHandler.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\Handlers\\StaticFilesHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\Handlers\\StaticFilesHandler.cs",
+              "RelativeToolTip": "HttpServerLibrary\\Handlers\\StaticFilesHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:25:42.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\TemplateEngineUnitTests\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "TemplateEngineUnitTests\\Models\\Movies.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\TemplateEngineUnitTests\\Models\\Movies.cs",
+              "RelativeToolTip": "TemplateEngineUnitTests\\Models\\Movies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:55:07.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomTemplator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\TemplateEngine\\CustomTemplator.cs",
+              "RelativeDocumentMoniker": "TemplateEngine\\CustomTemplator.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\TemplateEngine\\CustomTemplator.cs",
+              "RelativeToolTip": "TemplateEngine\\CustomTemplator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:54:07.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserProfileEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Endponts\\UserProfileEndpoint.cs",
+              "RelativeDocumentMoniker": "MyHtttpServer\\Endponts\\UserProfileEndpoint.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Endponts\\UserProfileEndpoint.cs",
+              "RelativeToolTip": "MyHtttpServer\\Endponts\\UserProfileEndpoint.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:55:10.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Templates\\Pages\\Dashboard\\index.html",
+              "RelativeDocumentMoniker": "MyHtttpServer\\Templates\\Pages\\Dashboard\\index.html",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Templates\\Pages\\Dashboard\\index.html",
+              "RelativeToolTip": "MyHtttpServer\\Templates\\Pages\\Dashboard\\index.html",
+              "ViewState": "AQIAACsAAAAAAAAAAAAswDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-11T06:18:31.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboarEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Endponts\\DashboarEndpoint.cs",
+              "RelativeDocumentMoniker": "MyHtttpServer\\Endponts\\DashboarEndpoint.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Endponts\\DashboarEndpoint.cs",
+              "RelativeToolTip": "MyHtttpServer\\Endponts\\DashboarEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:20:35.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "profile.html",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Templates\\Pages\\UserProfile\\profile.html",
+              "RelativeDocumentMoniker": "MyHtttpServer\\Templates\\Pages\\UserProfile\\profile.html",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Templates\\Pages\\UserProfile\\profile.html",
+              "RelativeToolTip": "MyHtttpServer\\Templates\\Pages\\UserProfile\\profile.html",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-28T14:56:45.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RedirectResult.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\HttpResponse\\RedirectResult.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\HttpResponse\\RedirectResult.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\HttpResponse\\RedirectResult.cs",
+              "RelativeToolTip": "HttpServerLibrary\\HttpResponse\\RedirectResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:26:24.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EndpointsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\Handlers\\EndpointsHandler.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\Handlers\\EndpointsHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\Handlers\\EndpointsHandler.cs",
+              "RelativeToolTip": "HttpServerLibrary\\Handlers\\EndpointsHandler.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T14:13:29.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HtmlResult.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\HttpResponse\\HtmlResult.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\HttpResponse\\HtmlResult.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\HttpResponse\\HtmlResult.cs",
+              "RelativeToolTip": "HttpServerLibrary\\HttpResponse\\HtmlResult.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:26:08.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SessionStorage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Session\\SessionStorage.cs",
+              "RelativeDocumentMoniker": "MyHtttpServer\\Session\\SessionStorage.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Session\\SessionStorage.cs",
+              "RelativeToolTip": "MyHtttpServer\\Session\\SessionStorage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:26:59.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\Core\\BaseEndpoint.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\Core\\BaseEndpoint.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\Core\\BaseEndpoint.cs",
+              "RelativeToolTip": "HttpServerLibrary\\Core\\BaseEndpoint.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:02:17.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "authentication-sign-up-basic.html",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\public\\authentication-sign-up-basic.html",
+              "RelativeDocumentMoniker": "MyHtttpServer\\public\\authentication-sign-up-basic.html",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\public\\authentication-sign-up-basic.html",
+              "RelativeToolTip": "MyHtttpServer\\public\\authentication-sign-up-basic.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-26T14:46:03.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "JsonResult.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\HttpResponse\\JsonResult.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\HttpResponse\\JsonResult.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\HttpResponse\\JsonResult.cs",
+              "RelativeToolTip": "HttpServerLibrary\\HttpResponse\\JsonResult.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:38:44.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Service\\IMailService.cs",
+              "RelativeDocumentMoniker": "MyHtttpServer\\Service\\IMailService.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Service\\IMailService.cs",
+              "RelativeToolTip": "MyHtttpServer\\Service\\IMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:49:31.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Service\\MailService.cs",
+              "RelativeDocumentMoniker": "MyHtttpServer\\Service\\MailService.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\MyHtttpServer\\Service\\MailService.cs",
+              "RelativeToolTip": "MyHtttpServer\\Service\\MailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:26:16.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\Attributes\\GetAttribute.cs",
+              "RelativeDocumentMoniker": "HttpServerLibrary\\Attributes\\GetAttribute.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\MyHtttpServer_IlkhamShakirov\\MyHtttpServer\\HttpServerLibrary\\Attributes\\GetAttribute.cs",
+              "RelativeToolTip": "HttpServerLibrary\\Attributes\\GetAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:40:54.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

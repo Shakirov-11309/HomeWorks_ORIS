@@ -1,0 +1,36 @@
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.deps.json
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.dll
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\refint\MyORMLibrary.dll
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\User\Desktop\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\ref\MyORMLibrary.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\refint\MyORMLibrary.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.deps.json
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\User\Desktop\Новая папка\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\ref\MyORMLibrary.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.deps.json
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\bin\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.AssemblyInfo.cs
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\refint\MyORMLibrary.dll
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\MyORMLibrary.pdb
+C:\Users\User\Downloads\MyHtttpServer_IlkhamShakirov\MyHtttpServer\MyORMLibrary\obj\Debug\net8.0\ref\MyORMLibrary.dll
